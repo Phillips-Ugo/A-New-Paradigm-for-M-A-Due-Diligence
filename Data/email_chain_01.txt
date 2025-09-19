@@ -1,0 +1,14 @@
+From: junior.associate@lawfirm.com
+To: senior.partner@lawfirm.com
+Subject: Query on Trading Windows for Acme Corp Deal
+
+Hi Partner,
+
+I'm cross-referencing the executive offer letters with our internal policies before the Acme Corp deal closes.
+
+Specifically, I'm looking at the document named 'contract_05_tradingwindow.pdf'. The policy seems very strict. I also checked the main 'contract_03_insiderpolicy.pdf', and I want to confirm that all executives in the deal are fully briefed on these restrictions.
+
+A violation here could be a major compliance issue. Let me know if you'd like me to draft a summary for the deal team.
+
+Best,
+Junior Associate
